@@ -6,7 +6,6 @@ This is a simple Python project that:
 - Assigns 3 random grades (between 50 and 100) to each student
 - Calculates their average
 - Filters out successful students (average ≥ 70)
-- Includes an object-oriented `Student` class example
 
 ## How to Run
 
