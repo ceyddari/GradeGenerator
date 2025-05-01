@@ -15,7 +15,7 @@ This is a simple Python project that:
 
 ```bash
 python main.py
-
+```
 Requirements
 Python 3.7+
 
